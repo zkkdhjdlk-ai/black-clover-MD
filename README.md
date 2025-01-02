@@ -4,7 +4,7 @@
 ## `blackclover` 
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=blackclover+;thecarlos19+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐂𝐫𝐞𝐚𝐝𝐨𝐫;1000+𝘊𝘰𝘮𝘢𝘯𝘥𝘰𝘴;blackclover+✰✰✰✰✰">      
 </p>
-<img src="https://acegif.com/wp-content/gif/outerspace-51.gif" width="400" height="230"/>
+<img src="https://qu.ax/RzEAw.jpg" width="400" height="230"/>
 </p>
 ------------------
 
@@ -94,4 +94,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐 𝑫𝒆𝒍 𝑩𝒐𝒕` 
 <a href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/></a>
 
-[© Powered By Infinity-Wa ⚡︎](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)
+[© Powered By pawerby-the legds ⚡︎](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
