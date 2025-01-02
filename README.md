@@ -2,7 +2,7 @@
 
 
 ## `𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘︎` 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘︎+;thecarlos19+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐂𝐫𝐞𝐚𝐝𝐨𝐫;1000+𝘊𝘰𝘮𝘢𝘯𝘥𝘰𝘴;blackclover+✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=black clover+;thecarlos19+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐂𝐫𝐞𝐚𝐝𝐨𝐫;1000+𝘊𝘰𝘮𝘢𝘯𝘥𝘰𝘴;blackclover+✰✰✰✰✰">      
 </p>
 <img src="https://qu.ax/RzEAw.jpg" width="400" height="230"/>
 </p>
