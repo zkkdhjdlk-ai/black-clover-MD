@@ -259,4 +259,4 @@ href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.p
 <a
 href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="GataDios"/></a>
 
-[© Powered By Infinity-Wa ⚡︎](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)
+[© Powered By the Legends ⚡︎](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
