@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&lines=©+blackclover;©+Powered+By+Devcarlos+💫)](https://git.io/typing-svg)
 
-![blackclover](https://qu.ax/VmPGX.jpg)
+![blackclover](https://qu.ax/RzEAw.jpg)
 
 ---
 
