@@ -107,7 +107,7 @@ global.comunidad1 = 'https://chat.whatsapp.com/JaGwnrKgL7w15uAFZmZBIw' //Comunid
 global.channel = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w' //Canal Oficial
 global.channel2 = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w' //Canal test 
 global.yt = 'https://www.youtube.com/@ElCarlos.87' //Canal De Youtube
-global.md = '' //Github Oficial
+global.md = 'https://github.com/thecarlos19/black-clover-MD' //Github Oficial
 global.correo = ''
 global.cn ='https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w';
 
