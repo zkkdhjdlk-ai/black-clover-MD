@@ -70,9 +70,9 @@ global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 //Enlaces
 var grupo = 'https://chat.whatsapp.com/GrcUknwrJbNIXIIrbsuXc0'
 var canal = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w'  
-var git = '' 
+var git = 'https://github.com/thecarlos19/black-clover-MD' 
 var youtube = '' 
-var github = 'https://github.com/bayhackplis1/Black-Clover' 
+var github = 'https://github.com/thecarlos19/black-clover-MD' 
 let correo = 'carloscristobal30@gmail.com'
 
 global.redes = [canal, grupo, git, youtube, github, correo].getRandom()
