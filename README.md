@@ -47,7 +47,7 @@ black clover el mejor bot 🤖
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
 | WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w) |
-| WhatsApp | Grupo Oficial | [¡https://chat.whatsapp.com/GrcUknwrJbNIXIIrbsuXc0)|
+| WhatsApp | Grupo Oficial | ¡Click aquí!](https://chat.whatsapp.com/GrcUknwrJbNIXIIrbsuXc0) |
 
 
 ---
