@@ -58,7 +58,7 @@ global.rwait = '⏳'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de Yuki Ai
+//Emojis determinado de black clover 
 global.emoji = '🥷'
 global.emoji2 = '👻'
 global.emoji3 = '⚔️'
