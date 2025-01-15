@@ -27,15 +27,6 @@ black clover el mejor bot 🤖
 
 ------------------
 
-### 🔱 MASHA HOST 🥳
-<a href="https://dash.masha-host.shop"><img src="https://qu.ax/atWCn.jpg" height="125px"></a>
-
-
-
-### ☁️ SKY ULTRA PLUS
-<a href="https://dash.corinplus.com"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
-
-
 ### `🤖 𝑩𝒐𝒕 𝑶𝒇𝒊𝒄𝒊𝒂𝒍🤖`
 
 <a href="https://api.whatsapp.com/send/?phone=5217971278937&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://qu.ax/DmgPV.jpg" />
