@@ -24,6 +24,7 @@ ${usedPrefix + command} antibot
 
 🥷 *OPCIONES PARA MI PROPIETARIO*
 
+${usedPrefix + command} antisubots
 ${usedPrefix + command} public
 ${usedPrefix + command} status
 ${usedPrefix + command} serbot
