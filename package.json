@@ -1,6 +1,6 @@
 {
 "name": "black-clover-MD",
-"version": "3.0.3",
+"version": "4.1.0",
 "description": "Bot Multi Device ",
 "main": "blackclover/start.js",
 "type": "module",
