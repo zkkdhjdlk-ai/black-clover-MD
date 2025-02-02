@@ -2,7 +2,7 @@
 "name": "black-clover-MD",
 "version": "4.1.0",
 "description": "Bot Multi Device ",
-"main": "blackclover/start.js",
+"main": "start.js",
 "type": "module",
 "directories": {
 "lib": "lib",
