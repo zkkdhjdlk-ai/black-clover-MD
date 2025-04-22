@@ -21,9 +21,9 @@ await conn.reply(m.chat, txt, m, rcanal)
 } catch (e) {
 await conn.reply(m.chat, '⚠︎ *Error:* ' + e, m)
 }}
-handler.help = ['tourl4']
+handler.help = ['tourl2']
 handler.tags = ['tools']
-handler.command = ['tourl4', 'catbox']
+handler.command = ['tourl2', 'catbox']
 export default handler
 
 function formatBytes(bytes) {
