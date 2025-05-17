@@ -1,18 +1,3 @@
-# **Black clover IA - El Mejor bot de WhatsApp**
-
-¡Prepárate para llevar tu experiencia en WhatsApp al siguiente nivel! **Black-clover-MD** es un bot multiusos, rápido, poderoso y 100% personalizable. Desde comandos divertidos hasta herramientas de moderación, este bot lo tiene *TODO*.
-
-**Características insanas:**
-- Sistema de comandos con respuesta ultra rápida  
-- Integración con APIs para obtener datos en tiempo real  
-- Stickers, memes, música, inteligencia artificial y más  
-- Soporte para grupos, respuestas automáticas y anti-spam  
-- Fácil de configurar y desplegar (¡no necesitas ser hacker!)
-
-**Tecnología:** Node.js | Baileys | JavaScript  
-**Modo:** Usuario-Bot / Multi-device
-
-**¿Listo para dominar WhatsApp como un pro? Clona, edita y despliega tu propio imperio digital.**
 
 > *“No es magia, es el mejor bot.”*
 
