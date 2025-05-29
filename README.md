@@ -1,5 +1,5 @@
 
-> *“The Carlos ⚡.”*
+> *“El mejor bot de WhatsApp 🥷.”*
 
 
 <h1 align="center">B L A C K - C L O V E R </p>
