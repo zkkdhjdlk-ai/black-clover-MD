@@ -1,5 +1,5 @@
 
-> *“pawered by the Legends ⚡.”*
+> *“The Carlos ⚡.”*
 
 
 <h1 align="center">B L A C K - C L O V E R </p>
