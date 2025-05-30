@@ -59,7 +59,6 @@ global.moneda = 'monedas'
 global.gp4 = 'https://chat.whatsapp.com/GrcUknwrJbNIXIIrbsuXc0' //Grupo Oficial De black clover 
 global.gp1 = 'https://chat.whatsapp.com/FiBcPMYEO7mG4m16gBbwpP' //Grupo 2
 global.gp2 = 'https://chat.whatsapp.com/G9zQlCHDBrn99wcC2FyWgm'//
-global.comunidad1 = 'https://chat.whatsapp.com/JaGwnrKgL7w15uAFZmZBIw' //Comunidad THE LEGENDS 
 global.channel = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w' //Canal Oficial
 global.channel2 = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w' //Canal test 
 global.yt = 'https://www.youtube.com/@ElCarlos.87' //Canal De Youtube
