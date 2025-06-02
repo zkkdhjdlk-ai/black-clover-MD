@@ -1,4 +1,4 @@
-# deja tu estrellita 🌟 
+# Deja tu estrellita 🌟 
 
 > *👑* **El mejor Bot de WhatsApp** *⚔️*
 
