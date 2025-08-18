@@ -1,22 +1,26 @@
-const handler = async (m, {conn}) => {
+const handler = async (m, { conn }) => {
   conn.reply(m.chat, `*◤ ────「 𝚅 𝙴 𝚁 𝙳 𝙰 𝙳 」──── ◥*
 
 *⚄︎.- ${pickRandom(global.verdad)}*
 
-*◣ ──「  C R O W B O T  」── ◢*
-  `, m);
+*◣ ──「  Black Clover 」── ◢*
+  `, m, {
+    contextInfo: global.rcanal
+  });
 };
+
 handler.help = ['verdad'];
 handler.tags = ['fun'];
-handler.command = /^verdad/i;
+handler.command ='verdad', /^verdad/i;
+handler.register = true;
+
 export default handler;
 
 function pickRandom(list) {
-  return list[Math.floor(list.length * Math.random())];
+  return list[Math.floor(Math.random() * list.length)];
 }
 
 global.verdad = [
-  // Preguntas soft:
   '¿Con quién experimentaste el amor de verdad?',
   '¿Cómo sería tu cita perfecta?',
   '¿Cuál es tu mayor miedo en la vida?',
@@ -166,7 +170,6 @@ global.verdad = [
   '¿Cuales tu cancion favorita?',
   '¿Tienes un apodo? ¿Cuál?',
   '¿Cuánto tiempo pasas mirándote en el espejo?',
-  // Preguntas de índole sexual:
   '(Mujeres) ¿El _"tamaño"_ importa?',
   '¿Cuántas veces a la semana / mes tiene relaciones sexuales y con qué frecuencia desea tener relaciones sexuales?',
   '¿Con cuántas parejas sexuales te has acostado?',
@@ -193,8 +196,6 @@ global.verdad = [
   '¿Prefieres lento y romántico, o duro y agresivo?',
   '¿Te consideras alguien sexualmente dominante?',
   'De los integrantes de este chat, ¿Con quién te gustaría tener relaciones?',
-  // Preguntas piteras
   'Si no fueras pendejo, ¿Qué te gustaría ser?',
   '¿Tienes carro?',
-
 ];
