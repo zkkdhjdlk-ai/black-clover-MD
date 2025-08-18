@@ -74,7 +74,7 @@ global.channel2 = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'
 global.cn = 'https://whatsapp.com/channel/0029Vb4cQJu2f3EB7BS7o11M'
 global.yt = 'https://www.youtube.com/@ElCarlos.87'
 global.md = 'https://github.com/thecarlos19/black-clover-MD'
-global.correo = 'brayanfree881@gmail.com'
+global.correo = ''
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
