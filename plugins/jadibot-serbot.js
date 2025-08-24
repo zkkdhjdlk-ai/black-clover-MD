@@ -1,4 +1,4 @@
-  // 🚫 prohibido editar 🚫
+  // canal oficial The Legends ⚡
 //Código creado x The Carlos 👑 
 //No olviden dejar créditos.
 import { useMultiFileAuthState, DisconnectReason, makeCacheableSignalKeyStore, fetchLatestBaileysVersion, Browsers } from "@whiskeysockets/baileys"
