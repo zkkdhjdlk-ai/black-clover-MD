@@ -1,6 +1,6 @@
 //Código creado x The Carlos 👑 
-//prohibido editar 
-//No olviden dejar créditos
+//No olviden dejar créditos.
+
 import { useMultiFileAuthState, DisconnectReason, makeCacheableSignalKeyStore, fetchLatestBaileysVersion, Browsers } from "@whiskeysockets/baileys"
 import qrcode from "qrcode"
 import NodeCache from "node-cache"
