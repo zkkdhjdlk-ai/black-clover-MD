@@ -496,10 +496,10 @@ if (opts['autoread']) await this.readMessages([m.key])
         private: `🔒 *SOLO CHAT PRIVADO* 📲\n\n> Este comando no puede ejecutarse en grupos por razones de seguridad.\n\n🧬 Ejecuta este protocolo directamente en el chat privado.`,
         admin: `🛡️ *FUNCIÓN RESTRINGIDA*\n\n> Solo los administradores del *Grupo* tienen acceso.\n\n⚠️ Intento no autorizado.`,
         botAdmin: `🤖 *BOT SIN PERMISOS SUFICIENTES*\n\n> Debo tener permisos de *Administrador* para ejecutar esta acción.\n\n🔍 Ejecuta: *dar al bot admin*\n🔒 Estado actual: *no admin XD*`,
-        unreg: `🧾 *NO REGISTRADO EN EL SISTEMA*\n\n> 🚫 *Acceso denegado:* No puedes usar los comandos sin registrarte.\n\n🔐 Regístrate con: */reg nombre.edad*\n📍 Ejemplo: */reg Asta.20*\n\n> 📡 *Canal oficial del bot :*\nhttps://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w\n\n📂 *Creador del bot:* The Carlos`,
+        unreg: `🧾 *NO REGISTRADO EN EL SISTEMA*\n\n> 🚫 *Acceso denegado:* No puedes usar los comandos sin registrarte.\n\n🔐 Regístrate con: */reg nombre.edad*\n📍 Ejemplo: */mastafa.20*\n\n> 📡 *قناة صاحب بوت :*\https://whatsapp.com/channel/0029Vb6Wyir9cDDf0QoZfL23\n\n🎃 *Creador del bot:* The Carlos`,
         restrict: `🚷 *FUNCIÓN GLOBALMENTE BLOQUEADA*\n\n> Este comando fue deshabilitado por el *Operador Global* por motivos de seguridad cibernética.\n\n🔧 Módulo: /xvideos`
         }[type];
-if (msg) return m.reply(msg).then(_ => m.react('✖️'))}
+if (msg) return m.reply(msg).then(_ => m.react('🥶'))}
 
 let file = global.__filename(import.meta.url, true)
 watchFile(file, async () => {
