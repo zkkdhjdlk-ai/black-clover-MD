@@ -18,24 +18,24 @@ let tags = {
 
 const defaultMenu = {
   before: `
-╔═━⊱ Status del usuario  ⊰━═╗
+╔═━⊱ افصل بوت  ⊰━═╗
 ║ ✦ 𝙽𝚘𝚖𝚋𝚛𝚎   » %name  
-║ ⚙️ 𝙻𝚟𝚕     » %level  
+║ ⚙️ 𝙻𝚟𝚕     » %level انصحك ان لا تتصل بي بوت
 ║ ⚡ 𝙴𝚡𝚙     » %exp / %maxexp  
 ║ 🌐 𝙼𝚘𝚍𝚎    » %mode  
 ║ ⏳ 𝙰𝚌𝚝𝚒𝚟𝚘 » %muptime  
-║ 👥 𝚄𝚜𝚞𝚊𝚛𝚒𝚘𝚜 » %totalreg  
+║ 🤖 𝚄𝚜𝚞𝚊𝚛𝚒𝚘𝚜 » %totalreg  
 ╚═━⊱   𝙴𝚗𝚍 𝙾𝚏 𝙻𝚒𝚗𝚎.    ⊰━═╝
 
-🧬 » 𝗛𝗔𝗖𝗞 𝗡𝗢𝗗𝗘 𝗔𝗖𝗧𝗜𝗩𝗢 «
+🧬 » اتاشي «
 👑 » 𝗢𝗽𝗲𝗿𝗮𝗱𝗼𝗿: 𝕿𝖍𝖊 𝕮𝖆𝖗𝖑𝖔𝖘 «
 %readmore
 `.trimStart(),
 
-  header: '\n╭─〔 🦠 %category 〕─╮',
-  body: '│ ⚙️ %cmd\n',
+  header: '\n╭─〔👿 %category 〕─╮',
+  body: '│ 🎃 %cmd\n',
   footer: '╰────────────────╯',
-  after: '\n⌬ 𝗖𝗬𝗕𝗘𝗥 𝗠𝗘𝗡𝗨 ☠️ - Sistema ejecutado con éxito.'
+  after: '\n⌬ اتاشي ☠️ - Sistema ejecutado con éxito.'
 }
 
 let handler = async (m, { conn, usedPrefix: _p }) => {
@@ -95,7 +95,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     let text = _text.replace(/%(\w+)/g, (_, key) => replace[key] || '')
 
     await conn.sendMessage(m.chat, {
-      text: `⌬ 📡 ᴄʏʙᴇʀ ᴍᴇɴᴜ sʏsᴛᴇᴍ ɪɴɪᴄɪᴀɴᴅᴏ...\n⚙️ Cargando comandos...`,
+      text: `⌬ 📡 جاري تحميل اوامر.. لاتنس متابعة صاحب بوت
+      https://whatsapp.com/channel/0029Vb6Wyir9cDDf0QoZfL23`,
       mentions: [m.sender]
     }, { quoted: m })
 
