@@ -7,9 +7,9 @@ export default handler;
 global.ComprarBot = `
 〔 *BLACK CLOVER- BOT* 〕
 
-*BOT PARA GRUPO* :
-> wa.me/527971006556
+*BOT PARA مجموعه* :
+> wa.me/212680821981
 
-*BOT PERZONALIZADO* :
-> wa.me/525544876071
+*BOT رقم المطور* :
+> wa.me/212680821981
 `;
