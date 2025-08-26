@@ -100,7 +100,7 @@ global.estilo = {
 }
 
 global.ch = {
-  ch1: "120363307694217288@newsletter"
+  ch1: "120363401302644407@newsletter"
 }
 global.rcanal = global.ch.ch1
 
