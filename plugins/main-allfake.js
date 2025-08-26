@@ -39,16 +39,16 @@ handler.all = async function (m) {
     }
   }
 
-  global.creador = 'Wa.me/525544876071'
+  global.creador = 'Wa.me/212680821981'
   global.ofcbot = `${conn?.user?.jid?.split('@')[0] || ''}`
-  global.asistencia = 'Wa.me/525544876071'
+  global.asistencia = 'Wa.me/212680821981'
   global.namechannel = '⏤͟͞㋡ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 '
   global.namegrupo = ' 𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘︎'
   global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 ⏤͟͞ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 '
   global.listo = '⚔️ *Aquí tienes perra*'
 
   //Ids channel
-  global.canalIdM = ["120363307694217288@newsletter", "120363307694217288@newsletter"]
+  global.canalIdM = ["120363401302644407@newsletter", "120363307694217288@newsletter"]
   global.canalNombreM = ["⏤͟͞㋡ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 ", "㋡ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 "]
   global.idchannel = canalIdM[0]
   global.channelRD = await getRandomChannel()
