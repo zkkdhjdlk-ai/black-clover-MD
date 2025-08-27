@@ -48,7 +48,7 @@ handler.all = async function (m) {
   global.listo = '⚔️ *Aquí tienes perra*'
 
   //Ids channel
-  global.canalIdM = ["120363401302644407@newsletter", "120363307694217288@newsletter"]
+  global.canalIdM = ["120363401302644407@newsletter", "120363401302644407@newsletter"]
   global.canalNombreM = ["⏤͟͞㋡ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 ", "㋡ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 "]
   global.idchannel = canalIdM[0]
   global.channelRD = await getRandomChannel()
